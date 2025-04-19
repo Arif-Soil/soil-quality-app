@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Models & data
+*.pkl
+Unified_Soil_Quality_App_Input.csv
+
+# Env
+.env
+venv/
+.venv/
