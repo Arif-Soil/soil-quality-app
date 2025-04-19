@@ -1,0 +1,7 @@
+Sample ID,H,S,Absorbance (550 nm),Redox Potential (mV),Manual Color,SQI Score,Soil Quality
+S1,149,221,3.7,17.5,Dark Purple,15,Poorest
+S2,148,194,3.4,22.4,Purple,25,Poor
+S3,145,172,2.95,26.7,Light Purple,40,Fair
+S4,144,160,2.4,15.3,Pink,60,Good
+S5,143,158,1.95,8.9,Light Pink,75,Very Good
+S6,142,140,1.6,4.5,Colorless,90,Excellent

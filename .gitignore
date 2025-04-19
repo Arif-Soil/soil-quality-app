@@ -4,7 +4,6 @@ __pycache__/
 
 # Models & data
 *.pkl
-Unified_Soil_Quality_App_Input.csv
 
 # Env
 .env
